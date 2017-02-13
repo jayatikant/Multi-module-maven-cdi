@@ -1,0 +1,16 @@
+ mkdir -p clientA/src/main/java
+ mkdir -p clientA/src/main/resources
+ mkdir -p clientA/src/test/resources
+ mkdir -p clientA/src/test/java
+
+ mkdir -p clientB/src/main/java
+ mkdir -p clientB/src/main/resources
+ mkdir -p clientB/src/test/resources
+ mkdir -p clientB/src/test/java
+
+ mkdir -p war/src/main/java
+ mkdir -p war/src/main/resources
+ mkdir -p war/src/test/resources
+ mkdir -p war/src/test/java
+
+ touch common/pom.xml
